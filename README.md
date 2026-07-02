@@ -1,4 +1,4 @@
-# claude-podman
+# claude-sandbox
 
 ## Build
 
